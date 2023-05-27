@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeKonsol", "KafeKonsol\KafeKonsol.csproj", "{26799AC0-C70C-4D0F-9E3B-0EEDC138E0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeKonsol.Data", "KafeKonsol.Data\KafeKonsol.Data.csproj", "{48044731-1447-465C-93D1-3577E959B321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26799AC0-C70C-4D0F-9E3B-0EEDC138E0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26799AC0-C70C-4D0F-9E3B-0EEDC138E0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26799AC0-C70C-4D0F-9E3B-0EEDC138E0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26799AC0-C70C-4D0F-9E3B-0EEDC138E0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48044731-1447-465C-93D1-3577E959B321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48044731-1447-465C-93D1-3577E959B321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48044731-1447-465C-93D1-3577E959B321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48044731-1447-465C-93D1-3577E959B321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAF5413-2381-4EFA-8789-7B878D1C42FC}
+	EndGlobalSection
+EndGlobal
